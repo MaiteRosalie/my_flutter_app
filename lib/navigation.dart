@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../pages/home_page.dart';
-import '../pages/favorites_page.dart';
+import 'pages/home_page.dart';
+import 'pages/favorites_page.dart';
 
 class Navigation extends StatefulWidget {
   const Navigation({super.key});
